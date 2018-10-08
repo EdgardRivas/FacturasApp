@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FacturasApp</string>
+    <string name="downloading">Descargando archivo</string>
+    <string name="downloaded">Archivo descargado</string>
+    <string name="error">Error de descargar, por favor intente otra vez</string>
+    <string name="loading">Cargando…</string>
+    <string name="profile">Perfil</string>
+</resources>

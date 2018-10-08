@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacturasApp</string>
+    <string name="loading">Loading…</string>
+    <string name="downloading">Downloading file</string>
+    <string name="downloaded">File downloaded</string>
+    <string name="profile">Profile</string>
+</resources>
